@@ -1,0 +1,33 @@
+Juan Perez
+4 11 2005
+5584923025
+Alma López Peña
+2 3 2001
+5533247362
+Javier García Milano
+10 8 1996
+9616122345
+Carlos Hernández Soto
+15 1 2002
+5512345678
+Mariana Torres Ramírez
+28 5 1999
+5587654321
+Diego Martínez Cruz
+7 9 2000
+5543216789
+Sofía Gómez Navarro
+21 11 2003
+5598765432
+Ricardo Sánchez López
+3 4 1998
+5524681357
+Valeria Pérez Moreno
+12 7 2001
+5575312468
+Andrés Castillo Ruiz
+30 10 1997
+5535791246
+Fernanda Rivera Díaz
+18 12 2002
+5564820135
